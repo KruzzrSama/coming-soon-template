@@ -4,8 +4,8 @@ Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa e
 #### Gereklilikler
 - ##### <a href="https://www.apachefriends.org/tr/index.html"><img align="center" alt="XAMPP" width="26px" src="https://cdn.discordapp.com/attachments/795066298295910420/842844889770360942/xampp_51mKlW-0.png"> Xampp</a>
 #### Kurulum
-- #### Indirdiğiniz dosyaları Xampp'ın içindeki htdocs klasörünün içine atın.
-- #### Indirdiğiniz dosyaların içerisindeki config.php dosyasını açıp içerisini istediğiniz gibi değiştirin Dipnot: hepsinin sonundaki yorum satırlarını okuyun.
+- #### Indirdiğiniz dosyaları, Xampp'ın içindeki htdocs klasörünün içine atın.
+- #### Indirdiğiniz dosyaların içerisindeki, `config.php` dosyasını açıp içerisini istediğiniz gibi değiştirin Dipnot: hepsinin sonundaki yorum satırlarını okuyun.
 
 ## Ek Bağlantılar
 #### Discord:
