@@ -3,11 +3,8 @@
 Program hatasız şekilde paylaşılmıştır, eğer istek bir özellik olursa ekleyebiliriz, istediğiniz özellikleri bize iletmek veya yardım almak için [Discord sunucumuza](http://discord.com/invite/sZV8bBfME8 "Discord sunucumuza") gelebilirsiniz.
 #### Gereklilikler
 - ##### <a href="https://www.apachefriends.org/tr/index.html"><img align="center" alt="XAMPP" width="26px" src="https://cdn.discordapp.com/attachments/795066298295910420/842844889770360942/xampp_51mKlW-0.png"> Xampp</a>
-#### Program Özellikleri
-- ##### Hareketli sidebar.
-- ##### Hareket ettirilebilir pencere.
-- ##### 8 adet özel font.
-
+#### Kurulum
+- #### indirdiğiniz dosyaları Xampp'ın içindeki htdocs klasörünün içine atın.
 [![Arayuz resmi](https://cdn.discordapp.com/attachments/795066298295910420/795321031585431582/download.png)](https://discord.gg/sZV8bBfME8)
 ## Ek Bağlantılar
 #### Discord:
