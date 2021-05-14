@@ -1,0 +1,164 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, input, select, textarea, button,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+html,
+body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(30, 29, 35);
+    justify-content: center;
+    align-items: center;
+    transition: all 0.6s;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+    text-decoration: none;
+    color: #cccdcf;
+}
+img {
+    border: 0;
+}
+:focus {
+    outline: 0;
+    outline-offset: 0;
+}
+
+body .layout-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 8vw;
+}
+
+body .layout-center .main-title {
+    font-size:10vw;
+    color: #ddd;
+    -webkit-text-stroke: 0.1vw rgb(30, 29, 35);
+    text-shadow: 0.1vw 0.1vw 0.1vw #000;
+    text-align: center;
+}
+
+body .layout-center .content-text {
+    font-size:1.5vw;
+    color: #ccc;
+    text-shadow: 0.1vw 0.1vw 0.1vw #000;
+    text-align: center;
+}
+
+body .layout-center .social-buttons {
+    margin-top: 3vw;
+    display: flex;
+    flex-direction: row;
+}
+
+body .layout-center .soc-item {
+    display: inline;
+    margin: 0 5px;
+}
+
+body .layout-center .soc-item a {
+    font-size:3vw;
+    display: inline-flex;
+    position: relative;
+    margin: 0 auto 0 auto;
+    border-radius: 50%;
+    text-align: center;
+    width: 4vw;
+    height: 4vw;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+body .layout-center .social-buttons .soc-item a i {
+    margin: 0;
+    font-size: 2vw;
+}
+
+body .layout-center .social-buttons .soc-item a:hover {
+    border-radius: 36%;
+}
+
+body .layout-center .social-buttons i {
+    color: #cccdcf;
+    transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+body .layout-center .social-buttons .soc-item a:hover i {
+    transform: rotate(360deg);
+    transition: all 0.6s;
+}
+
+body footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: inline;
+    width: 100%;
+    height: 4vw;
+    background-color: rgba(30, 29, 35, 0.4);
+    line-height: 2;
+}
+
+body footer h1 {
+    margin-left: 4vw;
+    font-size: 1.8vw;
+    float: left;
+    color: #fff;
+    font-weight: 500;
+}
+
+body footer p {
+    margin-right: 4vw;
+    font-size: 1.2vw;
+    float: right;
+    color: #fff;
+    line-height: 3.4;
+    font-weight: 300;
+}
